@@ -27,7 +27,7 @@ https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/8k9sq5Gd/btv.png",BTV National 
 https://bongohub.pw/bioscope.php?cc=btv-hd
 http://testing.denver1769.in/51.php?id=8399
-#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.imgur.com/eJS0vGk.jpg",Bdix tv https://bdixtv.serverbd247.com/live/bd-vs-sri-lanka/
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.imgur.com/eJS0vGk.jpg",Bdix tv https://bdixtv.serverbd247.com/live/bd-vs-sri-lanka.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.imgur.com/r2YjB0s.png",BTV Chottogram 
 http://cdn01.palki.tv/live/BTVChattogram-M/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.imgur.com/8nRyyAu.png",Sangsad Tv
