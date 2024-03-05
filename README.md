@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Powered By Habib" tvg-logo="https://ibb.co/tZfBZqw",H@bib Tv 
+#EXTINF:-1 group-title="Powered By Habib" tvg-logo="https://ibb.co/tZfBZqw", H@bib Tv 
 https://ibb.co/92szNyT
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/smvUcUd.png",Desi Channel
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/desi-tv/master.m3u8
