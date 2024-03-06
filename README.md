@@ -4,7 +4,7 @@
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/desi-tv/master.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/AujiJIX.png",8xm HD
 http://195.26.87.217/live.ts?channelId=370&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://postimg.cc/gXqtrSgL", 9x Music 
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.postimg.cc/HsLkqM9j/9xm-logo-6-F5824-A54-F-seeklogo-com.png", 9x Music 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/9XM-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.postimg.cc/3J497Dnm/download-8.png",Arabic Music 
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
