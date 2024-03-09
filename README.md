@@ -8,8 +8,7 @@ https://i.imgur.com/KustFYl.mp4
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/rTH9cWg.png",Hasan Tv 
 https://i.imgur.com/KustFYl.mp4
 
-EXTINF:-1 group-title="Others" tvg-logo="https://i.imgur.com/S07QFf2.png",Fashion tv http://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6490c01f3b3ce9e1aaad95be.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=fCTwg3yrrDztyVNnx2Ax
-
+EXTINF:-1 group-title="Others" tvg-logo="https://i.imgur.com/S07QFf2.png",Fashion tv epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6490c01f3b3ce9e1aaad95be/variant.m3u8?url=089b85a82a0f5fa269e986cd973de552-90ec3365cc1329d99819bc8355ede16c89374c5c9263c02ca6430bb5aaedfeaf87da7ae7b4f9e561773691dbf40d7fd98eacf9df243476e6717f3f821c13b38a0e40807c80a11b147ca88c2df73f2c98003c088cd24c48f314e465d64f62f8c9c37d6df351ef9302c63fb8efd58da59e0cd95cd0af8c99340da4f0a598c6d48d22d82e802536119ef800135a6541eed1692ce967e39750df5c806cb47aff9c26a25321ea7d7af0f8b7a40f1d59f4426f65011490b0f49c3811e22ca8e6565d87bda4485cd0bcf473b8b5f266773b5b65&x-plex-token=SXEPMxZ7qb2AXzA62ZsZ&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1709973254
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.postimg.cc/jq1x7FX1/IMG-20240229-121142-494.jpg",Hasan Tv 2
 https://fast01.chiheisen.app/1001585272431/20060
 http://filex.tv:8080/Amir8759/Amir9578/246758
