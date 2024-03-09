@@ -1689,7 +1689,7 @@ https://nayeem-parvez.pw/api/bioscope.m3u8?id=sony-ten-2-live&e=.m3u8|User-Agent
 #EXTINF:-1 tvg-logo="http://tv4.hoichoi24.com/assets/images/Sony TEN 31667728117.png" group-title="SPORTS", Sony Ten 3
 http://xtv.ooo:8080/live/T4S00515/820172/109985.ts
 https://nayeem-parvez.pw/api/bioscope.m3u8?id=sony-ten-3-live&e=.m3u8|User-Agent=nayeem110
-
+EXTINF:-1 group-title="Others" tvg-logo="https://i.imgur.com/S07QFf2.png", Fashion tv epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6490c01f3b3ce9e1aaad95be.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=fCTwg3yrrDztyVNnx2Ax
 
 
 
