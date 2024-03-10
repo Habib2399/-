@@ -1,12 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="PRESENTED BY HAABIB ULLAH" tvg-logo="https://i.imgur.com/rTH9cWg.png",Hasan Tv 
+#EXTINF:-1 group-title="PRESENTED BY HABIB ULLAH" tvg-logo="https://i.imgur.com/rTH9cWg.png",Hasan Tv 
 https://i.imgur.com/KustFYl.mp4
 
-#EXTINF:-1 group-title="Powered By HABIB ULLAH#EXTM3U
+#EXTINF:-1 group-title="Powered By HABIB ULLAH
 
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/rTH9cWg.png",Hasan Tv 
-https://i.imgur.com/KustFYl.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ENGLISH" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="OTHERS",COLOURS TV  https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6490c01f3b3ce9e1aaad95be/variant.m3u8
 
 #EXTINF:-1 tvg-name="Kolkata" tvg-logo="https://iqra.tv/wp-content/uploads/2023/10/IQRA-LOGO-PNG-connecting-you-to-the-source.jpg" group-title="Kolkata", colours Bangla HD https://yuppmedtaorire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/bollywoodhungama_live_https/2d5074e3-5436-400b-abef-18bf75c9912f/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Others" tvg-logo="https://iqra.tv/wp-content/uploads/2023/10/IQRA-LOGO-PNG-connecting-you-to-the-source.jpg" group-title="Others", Music tv HD http://xtv.ooo:8080/T4S00515/820172/270514
@@ -4196,6 +4195,7 @@ https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 https://stream-162.zeno.fm/ay4pqkk604zuv?zs=uxE5poqeQiiHORwP1eBreQ
 #EXTINF:-1 group-title="FM REDIO" tvg-logo="https://i.postimg.cc/ydHQDxdH/images-1-5.png",radio foorti
 https://stream-152.zeno.fm/cwa3vg8s8druv?zs=Gn24iHyWT3Omxri1VtA3oQ
+
 #EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Live Cams
 http://live.adultiptv.net/livecams.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net MILF" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net MILF
