@@ -8,9 +8,9 @@ https://i.imgur.com/KustFYl.mp4
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/rTH9cWg.png",Hasan Tv 
 https://i.imgur.com/KustFYl.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Kolkata" tvg-logo="https://iqra.tv/wp-content/uploads/2023/10/IQRA-LOGO-PNG-connecting-you-to-the-source.jpg" group-title="Kolkata", colours Bangla HD https://livegeoroueu.akamaized.net/120723/smil:colorsbanglahd1.smil/chunklist_b896000.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="Kolkata" tvg-logo="https://iqra.tv/wp-content/uploads/2023/10/IQRA-LOGO-PNG-connecting-you-to-the-source.jpg" group-title="Kolkata", colours Bangla HD https://livegeoroueu.akamaized.net/120723/smil:colorsbanglahd1.smil/chunklist_b896000.m3u8
 
-#EXTINF:-1 group-title="OTHERS" tvg-logo="https://i.imgur.com/S07QFf2.png", Fashion tv https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6490c01f3b3ce9e1aaad95be/variant.m3u8?
+#EXTINF:-1 group-title="OTHERS" tvg-logo="https://i.imgur.com/S07QFf2.png", Fashion tv https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6490c01f3b3ce9e1aaad95be/variant.m3u8
 
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.postimg.cc/jq1x7FX1/IMG-20240229-121142-494.jpg",Hasan Tv 2
 https://fast01.chiheisen.app/1001585272431/20060
