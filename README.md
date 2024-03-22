@@ -15,3 +15,7 @@ http://595706965204399665.ofg0316.xyz:80/live/Alfon0111H/Admtkefew123/755112.ts
 http://595706965204399665.ofg0316.xyz:80/live/Alfon0111H/Admtkefew123/755114.ts
 #EXTINF:-1 tag-id="" tag-name="AdultIPTV.net Blonde" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",DORCEL HD
 http://595706965204399665.ofg0316.xyz:80/live/Alfon0111H/Admtkefew123/755123.ts
+#EXTINF:-1 tag-id="" tag-name="AdultIPTV.net Blonde" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",FAP TV
+http://595706965204399665.ofg0316.xyz:80/live/Alfon0111H/Admtkefew123/755139.ts
+#EXTINF:-1 tag-id="" tag-name="AdultIPTV.net Blonde" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",FAP TEEN HD
+http://595706965204399665.ofg0316.xyz:80/live/Alfon0111H/Admtkefew123/755143.ts
