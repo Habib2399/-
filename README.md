@@ -1,4 +1,4 @@
-#
+#EXTM3U
 
 
 name="AdultIPTV.net Blonde" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Blonde
