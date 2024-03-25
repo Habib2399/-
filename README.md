@@ -1,7 +1,34 @@
 #EXTM3U
 
-#EXTINF:-1 tag-id="" tag-name="AdultIPTV.net Blonde" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX-1",AdultIPTV.net Blonde
+#EXTINF:-1 tag-id="" tag-name="AdultIPTV.net Blonde" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX-1", X1
+http://testdns1.com:8008/Nasoi_Costin/uUHyPxca/181275
+
+
+#EXTINF:-1 tag-id="" tag-name="AdultIPTV.net Blonde" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX-1", X2
+http://testdns1.com:8008/Nasoi_Costin/uUHyPxca/181274
+
+#EXTINF:-1 tag-id="" tag-name="AdultIPTV.net Blonde" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX-1", X3
 http://testdns1.com:8008/Nasoi_Costin/uUHyPxca/181272
+
+#EXTINF:-1 tag-id="" tag-name="AdultIPTV.net Blonde" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX-1", X4
+http://testdns1.com:8008/Nasoi_Costin/uUHyPxca/181271
+
+#EXTINF:-1 tag-id="" tag-name="AdultIPTV.net Blonde" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX-1", X5
+http://testdns1.com:8008/Nasoi_Costin/uUHyPxca/181270
+
+#EXTINF:-1 tag-id="" tag-name="AdultIPTV.net Blonde" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX-1", X6
+http://testdns1.com:8008/Nasoi_Costin/uUHyPxca/181271
+#EXTINF:-1 tag-id="" tag-name="AdultIPTV.net Blonde" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX-1", X7
+http://testdns1.com:8008/Nasoi_Costin/uUHyPxca/181270
+#EXTINF:-1 tag-id="" tag-name="AdultIPTV.net Blonde" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX-1", X8
+http://testdns1.com:8008/Nasoi_Costin/uUHyPxca/181269
+#EXTINF:-1 tag-id="" tag-name="AdultIPTV.net Blonde" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX-1", X9
+http://testdns1.com:8008/Nasoi_Costin/uUHyPxca/181268
+#EXTINF:-1 tag-id="" tag-name="AdultIPTV.net Blonde" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX-1", X10
+http://testdns1.com:8008/Nasoi_Costin/uUHyPxca/181267
+#EXTINF:-1 tag-id="" tag-name="AdultIPTV.net Blonde" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX-1", X11
+http://testdns1.com:8008/Nasoi_Costin/uUHyPxca/181266
+
 
 
 #EXTINF:-1 tag-id="" tag-name="AdultIPTV.net Blonde" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Blonde
