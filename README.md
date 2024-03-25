@@ -1,7 +1,6 @@
 #EXTM3U
 
 language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="newX", 1
-
 http://testdns1.com:8008/Nasoi_Costin/uUHyPxca/181272
 
 
