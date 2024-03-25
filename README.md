@@ -1,6 +1,6 @@
 #EXTM3U
 
-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="newX", 1
+#EXTINF:-1 tag-id="" tag-name="AdultIPTV.net Blonde" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX-1",AdultIPTV.net Blonde
 http://testdns1.com:8008/Nasoi_Costin/uUHyPxca/181272
 
 
