@@ -279,3 +279,5 @@ http://413772865152802295.ofg0316.xyz:80/live/Alfon0111H/Admtkefew123/802295.m3u
 http://413772865152803634.ofg0316.xyz:80/live/Alfon0111H/Admtkefew123/803634.m3u8
 #EXTINF: -1 tvg-name="XXX: AD - VIVID RED FHD" group-title="ADULTS", XXX: AD - VIVID RED FHD
 http://413772865152805904.ofg0316.xyz:80/live/Alfon0111H/Admtkefew123/805904.m3u8
+#EXTINF: -1 tvg-name="XXX: AD - VIVID RED FHD" group-title="ADULT Movies", MOVIE-1
+https://is.gd/UnZl8W.mp4 
