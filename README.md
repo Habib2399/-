@@ -289,3 +289,5 @@ https://is.gd/DbiP1e.mp4
 https://is.gd/9z1eQm
 #EXTINF: -1 tvg-name="XXX: AD - VIVID RED FHD" group-title="ADULT Movies", Brazilian movies
 https://gcore-vid.xnxx-cdn.com/gmmqY3E_udRJTY1K_LuVhA==,1713114421/videos/hls/12/f8/26/12f8265e0f6bb5f6dc94362ef37b2af7/hls-250p-80a02.m3u8
+#EXTINF: -1 tvg-logo="https://gcore-pic.xnxx-cdn.com/videos/thumbs169xnxxl/bd/78/4c/bd784c821296d511d6fc9d1a67345d38/bd784c821296d511d6fc9d1a67345d38.26.jpg" group-title="ADULT Movies", Whores in the heart-Full Movies
+https://cdn77-vid.xnxx-cdn.com/yFuuiDTyHavMX2SOrfEPqg==,1713115689/videos/hls/51/08/b5/5108b5f8151f6348888a840ea80cdf23/hls-360p.m3u8
