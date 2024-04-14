@@ -285,5 +285,7 @@ https://is.gd/UnZl8W.mp4
 https://is.gd/sNnTrN.mp4
 #EXTINF: -1 tvg-name="XXX: AD - VIVID RED FHD" group-title="ADULT Movies", MOVIE-3
 https://is.gd/DbiP1e.mp4
-#EXTINF: -1 tvg-name="XXX: AD - VIVID RED FHD" group-title="ADULT Movies", MOVIE-4
+#EXTINF: -1 tvg-name="XXX: AD - VIVID RED#EXTINF: -1 tvg-name="XXX: AD - VIVID RED FHD" group-title="ADULT Movies", MOVIE-4 FHD" group-title="ADULT Movies", MOVIE-4
 https://is.gd/9z1eQm
+#EXTINF: -1 tvg-name="XXX: AD - VIVID RED FHD" group-title="ADULT Movies", Brazilian movies
+https://gcore-vid.xnxx-cdn.com/gmmqY3E_udRJTY1K_LuVhA==,1713114421/videos/hls/12/f8/26/12f8265e0f6bb5f6dc94362ef37b2af7/hls-250p-80a02.m3u8
