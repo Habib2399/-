@@ -291,3 +291,7 @@ https://is.gd/9z1eQm
 https://gcore-vid.xnxx-cdn.com/gmmqY3E_udRJTY1K_LuVhA==,1713114421/videos/hls/12/f8/26/12f8265e0f6bb5f6dc94362ef37b2af7/hls-250p-80a02.m3u8
 #EXTINF: -1 tvg-logo="https://gcore-pic.xnxx-cdn.com/videos/thumbs169xnxxl/bd/78/4c/bd784c821296d511d6fc9d1a67345d38/bd784c821296d511d6fc9d1a67345d38.26.jpg" group-title="ADULT Movies", Whores in the heart-Full Movies
 https://cdn77-vid.xnxx-cdn.com/yFuuiDTyHavMX2SOrfEPqg==,1713115689/videos/hls/51/08/b5/5108b5f8151f6348888a840ea80cdf23/hls-360p.m3u8
+#EXTINF: -1 tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxl/63/9a/f5/639af5c85c78e5b8aca09f2e41bb4c30/639af5c85c78e5b8aca09f2e41bb4c30.21.jpg" group-title="ADULT Movies", Loves and secrets Full Movie
+https://cdn77-vid.xnxx-cdn.com/nVmrtlpS6v_l8nNAKafYVg==,1713117121/videos/hls/46/a1/9c/46a19c201e72084d2e602deae35f872e/hls-480p.m3u8
+#EXTINF: -1 tvg-logo="https://gcore-pic.xnxx-cdn.com/videos/thumbslll/17/40/8a/17408a3954d9a89be184031317c75a7b/17408a3954d9a89be184031317c75a7b.25.jpg" group-title="ADULT Movies", Mare Rampante
+https://gcore-vid.xnxx-cdn.com/eesRY4QofPy7S1TEkDQCsg==,1713117686/videos/hls/17/40/8a/17408a3954d9a89be184031317c75a7b/hls-250p.m3u8
